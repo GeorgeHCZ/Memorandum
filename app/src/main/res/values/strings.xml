@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Memorandum</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_setting">Settings</string>
+    <string name="memorandum_title_hint">Enter a title for the event.</string>
+    <string name="memorandum_title_lable">Title</string>
+    <string name="memorandum_details_lable">Details</string>
+    <string name="memorandum_solved_lable">Finished</string>
+    <string name="date_picker_title">Date of event:</string>
+    <string name="new_event">New Event</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s events</string>
+</resources>
